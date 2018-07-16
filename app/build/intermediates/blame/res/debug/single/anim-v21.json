@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android Studio Projects\\Lynda_Androd_Apps_RESTful_update\\Ch04\\04_01\\RecyclerView\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "E:\\Android Studio Projects\\Lynda_Androd_Apps_RESTful_update\\Ch04\\04_01\\RecyclerView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\Android Studio Projects\\Lynda_Androd_Apps_RESTful_update\\Ch04\\04_01\\RecyclerView\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "E:\\Android Studio Projects\\Lynda_Androd_Apps_RESTful_update\\Ch04\\04_01\\RecyclerView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    }
+]
