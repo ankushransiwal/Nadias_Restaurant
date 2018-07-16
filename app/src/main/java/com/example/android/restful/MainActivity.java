@@ -23,7 +23,7 @@ import android.widget.Toast;
 
 
 import com.example.android.restful.model.DataItem;
-import com.example.android.restful.sample.SampleDataProvider;
+//import com.example.android.restful.sample.SampleDataProvider;
 import com.example.android.restful.services.MyService;
 import com.example.android.restful.utils.NetworkHelper;
 
@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
     private static final int SIGNIN_REQUEST = 1001;
     public static final String MY_GLOBAL_PREFS = "my_global_prefs";
     private static final String TAG = "MainActivity";
-    List<DataItem> dataItemList = SampleDataProvider.dataItemList;
+    //List<DataItem> dataItemList = SampleDataProvider.dataItemList;
     private static final String JSON_URL =
             "http://560057.youcanlearnit.net/services/json/itemsfeed.php";
 

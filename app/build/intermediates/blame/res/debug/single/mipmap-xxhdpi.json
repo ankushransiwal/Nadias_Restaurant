@@ -2,5 +2,9 @@
     {
         "merged": "E:\\Android Studio Projects\\Lynda_Androd_Apps_RESTful_update\\Ch04\\04_01\\RecyclerView\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
         "source": "E:\\Android Studio Projects\\Lynda_Androd_Apps_RESTful_update\\Ch04\\04_01\\RecyclerView\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android Studio Projects\\Lynda\\Ch04\\04_01\\RecyclerView\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "E:\\Android Studio Projects\\Lynda\\Ch04\\04_01\\RecyclerView\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     }
 ]
